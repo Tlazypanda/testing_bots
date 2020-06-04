@@ -3,7 +3,7 @@
 # Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
 
 # Comment to be posted to on first time issues
-newIssueWelcomeComment: >-
+newIssueWelcomeComment: |
   Hello there!👋 Welcome to the project!💖  
   
   Thank you and congrats 🎉 for opening your very first issue in this project.  
@@ -20,7 +20,7 @@ newIssueWelcomeComment: >-
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
 # Comment to be posted to on PRs from first time contributors in your repository
-newPRWelcomeComment: >-
+newPRWelcomeComment: |
   Hello there!👋 Welcome to the project!💖
   Thank you and congrats 🎉 for opening your first PR on this project.✨  
   We will review it soon! Till then you can checkout the `README.md` for more details on it.  
@@ -33,7 +33,7 @@ newPRWelcomeComment: >-
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
 # Comment to be posted to on pull requests merged by a first time user
-firstPRMergeComment: >-
+firstPRMergeComment: |
   Wohoo!🎊 Congrats on merging your first pull request!🎉🎉🎉 
   Your code is officially a part of AnitaB.org! Time for a celebration 🙌🎉⚡️
   Feel free to explore more on this project.🤗
