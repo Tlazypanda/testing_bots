@@ -4,3 +4,4 @@ A repository to test out bots
 Testing out some bots to help newcomers in Opensource Organizations.
 
 Blah blah
+Supposed to help with the technical onboarding of new contributors.
